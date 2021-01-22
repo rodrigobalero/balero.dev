@@ -6,9 +6,12 @@ html,body {
     height: 100%;
     width: 100%;
 }
+
 body {
     background-color: #121212;
     display: table;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
 
 }
 
@@ -18,14 +21,12 @@ body {
     text-align: center;
 }
 
-p {
-    color: white;
-    font-size: 28px;
-    font-family: 'Quicksand', sans-serif;
+h1 {
+    font-size: 70px;
 }
 
 p.sub {
-    font-size: 14px;
+    font-size: 25px;
 }
 
 #main {
@@ -36,7 +37,7 @@ ul{
     display: inline-block;
     color: white;
     font-family: 'Quicksand', sans-serif;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 li {
